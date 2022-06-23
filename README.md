@@ -1,8 +1,8 @@
 # Smart_Planter
 - 6가지 센서를 이용한 자동 식물 관리 장치
+- atmega 128 사용(atmel studio 7.0)
 - Uart 통신
 - Low Pass Filter(LPF/1차) 사용
-- atmega 128 사용(atmel studio 7.0)
 
 1. 가변저항
 - 화분 무게에 따라 필요한 모터의 속도가 다르기 때문에, 가변저항 값에 따라 하단의 컨베이어 벨트를 움직이는 모터의 속도를 변경
